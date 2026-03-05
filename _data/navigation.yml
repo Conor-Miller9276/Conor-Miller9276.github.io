@@ -20,7 +20,8 @@ main:
         url: /pages/splash/
   - title: "Components"
     url: /components/
-
+  -title: "Contact"
+    url: /Contact/
  
 # Sidebar menu for the Projects page
 projects:
