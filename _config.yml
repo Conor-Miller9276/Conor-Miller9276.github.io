@@ -1,6 +1,6 @@
 # Basic site settings (edit these first)
 title: "Student Portfolio" # Site title shown in the browser and header
-title_separator: "-"
+title_separator: "Hello"
 subtitle: "Your tagline here" # site tagline that appears below site title in masthead
 description: "A simple portfolio starter for games students." # Short site summary
 name: "Conor Miller"
