@@ -21,7 +21,7 @@ main:
   - title: "Components"
     url: /components/
   - title: "About_Me"
-    url: /_pages/About_Me/
+    url: /About_Me/
 # Sidebar menu for the Projects page
 projects:
   - title: "Game Jam"
