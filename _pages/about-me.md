@@ -13,6 +13,12 @@ skills:
    badges: ["C#", "Game Dev"]
    text: "Hallo"
    years: 2
+  -name: "Game Design"
+   icon: "fas fa-fw fa-gamepad"
+   badges: ["Game Mechanics", "Levels", "UI"]
+   text: "Hallo 2"
+   level_label: "Noob"
+
 
 {% include figure image_path="/assets/images/TBOI.png" alt="Game Jam screenshot" caption="This is a caption" %}
 
