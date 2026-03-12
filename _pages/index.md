@@ -7,8 +7,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/TBOI.png
   actions:
-    - label: "Download CV"
-      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+    - label: "Download Isaac?"
+      url: "file:///C:/Users/B01026078/Pictures/Saved%20Pictures/TBOI.png"
       target: "_blank"
 
 
