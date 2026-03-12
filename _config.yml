@@ -55,9 +55,9 @@ footer: # Site footer
       url: "https://twitter.com/"
       target: "_blank"
     - label: "Github" # Github link
-      icon:
-      url:
-      target:
+      icon: "fab fa-fw fa-github-square"
+      url: https://github.com/
+      target: "_blank"
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-facebook-square"
       # url:
