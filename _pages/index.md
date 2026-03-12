@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/TBOI.png
   actions:
     - label: "Download Isaac?"
-      url: "file:///C:/Users/B01026078/Pictures/Saved%20Pictures/TBOI.png"
+      url: "https://bindingofisaacrebirth.fandom.com/wiki/Isaac"
       target: "_blank"
 
 
