@@ -7,7 +7,12 @@ permalink: /about-me/
 this is about me
 
 {% include skills skills=page.skills %}
-
+skills:
+  -name: "Unity"
+   icon: "fab fa-fw fa-unity"
+   badges: ["C#", "Game Dev"]
+   text: "Hallo"
+   years: 2
 
 {% include figure image_path="/assets/images/TBOI.png" alt="Game Jam screenshot" caption="This is a caption" %}
 
@@ -18,8 +23,4 @@ this is about me
   download="Project-proposal.pdf"
 %}
 
-{% include google-form
-  title="Contact Me"
-  src="https://forms.gle/XsbApFoRjn7r24jy6"
-  height="800"
-%}
+
