@@ -3,7 +3,7 @@ title: "Page Title"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000"
+  overlay_color: "#8fbc8f"
   overlay_filter: "0.5"
   overlay_image: /assets/images/TBOI.png
   actions:
