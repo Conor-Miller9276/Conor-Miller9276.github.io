@@ -3,10 +3,6 @@ title: "About Me"
 layout: default
 permalink: /about-me/
 ---
-
-this is about me
-
-{% include skills skills=page.skills %}
 skills:
   -name: "Unity"
    icon: "fab fa-fw fa-unity"
@@ -18,6 +14,9 @@ skills:
    badges: ["Game Mechanics", "Levels", "UI"]
    text: "Hallo 2"
    level_label: "Noob"
+---
+{% include skills skills=page.skills %}
+
 
 
 {% include figure image_path="/assets/images/TBOI.png" alt="Game Jam screenshot" caption="This is a caption" %}
