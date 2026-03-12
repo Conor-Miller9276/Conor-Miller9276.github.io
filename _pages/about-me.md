@@ -5,16 +5,16 @@ permalink: /about-me/
 ---
 skills:
   -name: "Unity"
-   icon: "fab fa-fw fa-unity"
-   badges: ["C#", "Game Dev"]
-   text: "Hallo"
-   years: 2
+     icon: "fab fa-fw fa-unity"
+     badges: ["C#", "Game Dev"]
+     text: "Hallo"
+     years: 2
   -name: "Game Design"
-   icon: "fas fa-fw fa-gamepad"
-   badges: ["Game Mechanics", "Levels", "UI"]
-   text: "Hallo 2"
-   level_label: "Noob"
----
+     icon: "fas fa-fw fa-gamepad"
+     badges: ["Game Mechanics", "Levels", "UI"]
+     text: "Hallo 2"
+     level_label: "Noob"
+   
 {% include skills skills=page.skills %}
 
 
