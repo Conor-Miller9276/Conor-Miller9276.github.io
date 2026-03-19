@@ -2,7 +2,6 @@
 title: "About Me"
 layout: default
 permalink: /about-me/
----
 skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
@@ -14,6 +13,7 @@ skills:
     badges: ["Game Mechanics", "Levels", "UI"]
     text: "Hallo 2"
     level_label: "Noob"
+---
 
 {% include skills skills=page.skills %}
 
