@@ -11,8 +11,8 @@ $border-color: mix(#fff, #393e46, 75%) !default;
 $footer-background-color: $primary-color !default;
 $header-background-color: $primary-color !default;
 $link-color: #393e46 !default;
-$masthead-link-color: #8fbc8f !default;
-$masthead-link-color-hover: #8fbc8f !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
 .page__footer {
