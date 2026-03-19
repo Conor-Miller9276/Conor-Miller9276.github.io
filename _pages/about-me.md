@@ -18,6 +18,7 @@ skills:
 {% include skills skills=page.skills %}
 
 {% include figure image_path="/assets/images/TBOI.png" alt="Game Jam screenshot" caption="This is a caption" %}
+{% include figure image_path="/assets/images/TBOI.png" alt="Game Jam screenshot" caption="This is a caption" %}
 
 {% include download
   title="Download my Project Proposal"
