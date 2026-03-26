@@ -15,7 +15,7 @@ skills:
     level_label: "Noob"
 ---
 
-<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
+<div style="display:flex; flex-wrap:wrap; gap:4rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px; #808080">
 <h2>1st yr Project Game - 2D Platformer</h2>
