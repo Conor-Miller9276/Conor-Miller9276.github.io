@@ -13,10 +13,12 @@ skills:
     badges: ["Game Mechanics", "Levels", "UI"]
     text: "Hallo 2"
     level_label: "Noob"
----
+
 inner {
 max-width: 100%;
 }
+---
+
 
 <div style="display:flex; flex-wrap:wrap; gap:4rem; align-items:flex-start;">
 <!-- LEFT: text content -->
