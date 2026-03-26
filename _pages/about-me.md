@@ -14,7 +14,7 @@ skills:
     text: "Hallo 2"
     level_label: "Noob"
 
-inner {
+inner: {
 max-width: 100%;
 }
 ---
