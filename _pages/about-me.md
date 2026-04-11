@@ -32,7 +32,7 @@ in module CRE135: 2D Game Creation.
 </div>
 </div>
 
-Skills:
+<h2>Skills: </h2>
 
 {% include skills skills=page.skills %}
 
