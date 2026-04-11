@@ -13,10 +13,6 @@ skills:
     badges: ["Game Mechanics", "Levels", "UI"]
     text: "Hallo 2"
     level_label: "Noob"
-
-inner: {
-width: 75%;
-}
 ---
 
 
@@ -35,6 +31,8 @@ in module CRE135: 2D Game Creation.
 {% include video id="1ujN925WCDg" provider="youtube" %}
 </div>
 </div>
+
+Skills:
 
 {% include skills skills=page.skills %}
 
