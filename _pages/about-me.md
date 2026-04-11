@@ -21,8 +21,7 @@ skills:
 <div style="flex:1 1 100px; min-width:250px;">
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
-As part of a team, I helped design and build a 2D Platform game for my course
-in module CRE135: 2D Game Creation.
+In my first semester as a Game Development student i created a solo game.
 </p>
 </div>
 <!-- RIGHT: video/content area -->
