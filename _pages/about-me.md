@@ -22,7 +22,7 @@ width: 75%;
 
 <div style="display:flex; flex-wrap:wrap; gap:4rem; align-items:flex-start;">
 <!-- LEFT: text content -->
-<div style="flex:1 1 950px; min-width:250px;">
+<div style="flex:1 1 100px; min-width:250px;">
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
 As part of a team, I helped design and build a 2D Platform game for my course
