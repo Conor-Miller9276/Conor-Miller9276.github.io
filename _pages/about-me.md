@@ -1,7 +1,7 @@
 ---
 title: "About me"
 layout: default
-permalink: /about/
+permalink: /about-me/
 skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
