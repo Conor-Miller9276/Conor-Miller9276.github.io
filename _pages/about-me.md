@@ -14,7 +14,7 @@ skills:
     text: "Hallo 2"
     level_label: "Noob"
   - name: "Godot"
-    icon: "fab fa-fw fa-godot"
+    icon: "fa-solid fa-code"
 ---
 
 
