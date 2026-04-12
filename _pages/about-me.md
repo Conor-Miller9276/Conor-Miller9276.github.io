@@ -13,6 +13,8 @@ skills:
     badges: ["Game Mechanics", "Levels", "UI"]
     text: "Hallo 2"
     level_label: "Noob"
+  - name: "Godot"
+    icon: "fab fa-fw fa-godot"
 ---
 
 
@@ -34,9 +36,6 @@ In my first semester as a Game Development student i created a solo game.
 <h2>Skills: </h2>
 
 {% include skills skills=page.skills %}
-
-{% include figure image_path="/assets/images/TBOI.png" alt="Game Jam screenshot" caption="This is a caption" %}
-{% include figure image_path="/assets/images/TBOI.png" alt="Game Jam screenshot" caption="This is a caption" %}
 
 {% include download
   title="Download my Project Proposal"
