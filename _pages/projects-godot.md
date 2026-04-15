@@ -1,5 +1,5 @@
 ---
 title: "projects-godot"
 layout: single
-permalink: /projects-godot/
+permalink: /projects/projects-godot/
 ---
