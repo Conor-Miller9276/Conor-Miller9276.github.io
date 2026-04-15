@@ -10,7 +10,7 @@ main:
       - title: "Capstone"
         url: /projects/capstone/
       - title: "Personal Project"
-        url: /projects/Godot-Personal-Project/
+        url: /projects/godot-personal-project/
   - title: "Pages"
     url: /pages/
     children:
@@ -31,7 +31,7 @@ projects:
   - title: "Capstone"
     url: /projects/capstone/
   - title: "Personal Project"
-    url: /projects/Godot-Personal-Project/
+    url: /projects/godot-personal-project/
 
 # Sidebar menu for the Pages page
 pages:
