@@ -1,5 +1,5 @@
 ---
-title: "Godot-Personal-Project"
+title: "Personal-Project"
 layout: single
 permalink: /projects/Godot-Personal-Project/
 ---
