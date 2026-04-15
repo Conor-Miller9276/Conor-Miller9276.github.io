@@ -9,7 +9,7 @@ main:
         url: /projects/game-jam/
       - title: "Capstone"
         url: /projects/capstone/
-      - title: "Personal Proj"
+      - title: "Personal Project"
         url: /projects/projects-godot/
   - title: "Pages"
     url: /pages/
@@ -30,6 +30,8 @@ projects:
     url: /projects/game-jam/
   - title: "Capstone"
     url: /projects/capstone/
+  - title: "Personal Project"
+    url: /projects/projects-godot/
 
 # Sidebar menu for the Pages page
 pages:
