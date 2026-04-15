@@ -27,9 +27,9 @@ feature_row:
     url: "/projects/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/TBOI.png
+  - image_path: /assets/images/Godot.png
     alt: "placeholder image 4"
-    title: "Placeholder 3"
+    title: "Personal Project"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
