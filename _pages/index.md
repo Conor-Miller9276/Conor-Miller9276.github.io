@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/TBOI.png
   actions:
     - label: "Download Isaac?"
-      url: "https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/"
+      url: "#test-link"
       target: "_blank"
 
 
