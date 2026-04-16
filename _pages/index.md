@@ -30,7 +30,7 @@ feature_row:
   - image_path: /assets/images/Godot.png
     alt: "placeholder image 4"
     title: "Personal Project"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: ""
 ---
 
 {% include feature_row id="intro" type="center" %}
