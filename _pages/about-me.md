@@ -21,7 +21,7 @@ skills:
 
 <div style="display:flex; flex-wrap:wrap; gap:4rem; align-items:flex-start;">
 <!-- LEFT: text content -->
-<div style="flex:1 1 100px; min-width:500px;">
+<div style="flex:1 1 100px; min-width:400px;">
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
 In my first semester as a Game Development student i created a solo game.
