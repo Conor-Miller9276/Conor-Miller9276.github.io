@@ -39,3 +39,5 @@ gallery_gameplay:
     title: "Final tweak"
     caption: "Final tweak"
 ---
+
+{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
