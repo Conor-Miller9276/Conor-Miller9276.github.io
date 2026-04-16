@@ -11,7 +11,11 @@ main:
         url: /projects/capstone/
       - title: "Personal Project"
         url: /projects/godot-personal-project/
-  - title: "Pages"
+      - title: "2D Project"
+        url: /projects/first-semester-game/
+      - title: "3D Project"
+        url: /projects/second-semester-3d-landscape/
+      - title: "Pages"
     url: /pages/
     children:
       - title: "Default Layout"
@@ -32,6 +36,10 @@ projects:
     url: /projects/capstone/
   - title: "Personal Project"
     url: /projects/godot-personal-project/
+  - title: "2D Project"
+    url: /projects/first-semester-game/
+  - title: "3D Project"
+    url: /projects/second-semester-3d-landscape/
 
 # Sidebar menu for the Pages page
 pages:
