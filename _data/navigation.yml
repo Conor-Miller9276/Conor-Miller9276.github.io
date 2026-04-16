@@ -15,7 +15,7 @@ main:
         url: /projects/first-semester-game/
       - title: "3D Project"
         url: /projects/second-semester-3d-landscape/
-      - title: "Pages"
+  - title: "Pages"
     url: /pages/
     children:
       - title: "Default Layout"
