@@ -31,6 +31,7 @@ In my first semester as a Game Development student i created a solo game.
 <h2>Skills: </h2>
 
 {% include skills skills=page.skills %}
+{% include skills skills=page.skills %}
 
 {% include download
   title="Download my Project Proposal"
