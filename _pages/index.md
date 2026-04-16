@@ -3,9 +3,9 @@ title: "Page Title"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#8fbc8f"
+  overlay_color: "#000000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/TBOI.png
+  overlay_image: ""
   actions:
     - label: "Download Isaac?"
       url: "#test-link"
