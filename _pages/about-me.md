@@ -32,17 +32,11 @@ Hi, my name is conor miller and i am a current first year game design and develo
 </p>
 </div>
 
-{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
-
 <h2>Skills: </h2>
 
 {% include skills skills=page.skills %}
 
-feature_row:
-  - image_path: /assets/images/semester-1-game.png
-    alt: "placeholder image 1"
-    title: "2D Project"
-    excerpt: ""
+{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
 
 
 {% include download
