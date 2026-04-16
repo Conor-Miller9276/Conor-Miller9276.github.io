@@ -8,8 +8,8 @@ sidebar:
     - projects
 gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/BrokenHouse-3D.png
-    image_path: /assets/images/BrokenHouse-3D.png
+  - url: /assets/images/3D Inside House.png
+    image_path: /assets/images/3D Inside House.png
     alt: "Gameplay 1"
     title: "Core loop"
     caption: "Core loop"
