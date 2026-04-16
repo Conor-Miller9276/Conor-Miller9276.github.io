@@ -3,7 +3,7 @@ title: "Conor Miller"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000000"
+  overlay_color: "#555555"
   overlay_filter: "0.5"
   overlay_image: ""
   actions:
