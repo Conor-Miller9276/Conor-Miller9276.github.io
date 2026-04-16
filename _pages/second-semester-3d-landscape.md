@@ -18,8 +18,8 @@ gallery_gameplay:
     image_path: /assets/images/3D BrokenStreet.png
   - url: /assets/images/3D BrokenStreet.png
     image_path: /assets/images/placeholder.png
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /assets/images/Money Shot.png
+    image_path: /assets/images/Money Shot.png
 ---
 
 
