@@ -35,7 +35,7 @@ skills:
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
 Hi, my name is conor miller and i am a current first year game design and development student at ulster university. I have developed many skills throughout this course as im learning C# in university and outside university i am learning godot for a personal project. i have developed three projects being a 2D game, a board game and a 3D environment.
-{% include gallery id="gallery_gameplay" layout="third" thumb_height="600px" %}
+{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
 </p>
 </div>
 
