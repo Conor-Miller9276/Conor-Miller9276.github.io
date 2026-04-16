@@ -2,6 +2,7 @@
 title: "Conor Miller"
 layout: splash
 permalink: /
+classes: wide
 header:
   overlay_color: "#555555"
   overlay_filter: "0.5"
