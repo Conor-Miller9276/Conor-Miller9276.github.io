@@ -46,11 +46,11 @@ gallery_gameplay:
 <div style="flex:1 1 100px; min-width:250px;">
 <h2>3D Project Video - 3D Environment</h2>
 <p>
-In my first semester as a Game Development student i created a solo game.
+In my first semester as a Game Development student i created a 3D environmental landscape.
 </p>
 </div>
 <!-- RIGHT: video/content area -->
-<div style="flex:1 1 250px; min-width:250px;">
+<div style="flex:1 1 1000px; min-width:1000px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
 {% include video id="7DzwulHtnpE" provider="youtube" %}
 </div>
