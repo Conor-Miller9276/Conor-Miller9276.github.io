@@ -20,7 +20,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "2D Project"
     excerpt: ""
-  - image_path: /assets/images/medieval-scrimmage.png
+  - image_path: /assets/images/3D-HomePage.png
     alt: "placeholder image 2"
     title: "3D Project"
     excerpt: ""
