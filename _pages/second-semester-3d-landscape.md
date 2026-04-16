@@ -12,14 +12,14 @@ gallery_gameplay:
     image_path: /assets/images/3D Inside House.png
   - url: /assets/images/3D-HomePage.png
     image_path: /assets/images/3D-HomePage.png
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/3D Street.png
-  - url: /assets/images/3D Street.png
-    image_path: /assets/images/3D BrokenStreet.png
-  - url: /assets/images/3D BrokenStreet.png
-    image_path: /assets/images/placeholder.png
   - url: /assets/images/Money Shot.png
     image_path: /assets/images/Money Shot.png
+  - url: /assets/images/3D Street.png
+    image_path: /assets/images/3D Street.png
+  - url: /assets/images/BrokenHouse-3D.png
+    image_path: /assets/images/BrokenHouse-3D.png
+  - url: /assets/images/3D BrokenStreet.png
+    image_path: /assets/images/3D BrokenStreet.png
 ---
 
 
