@@ -3,6 +3,10 @@ title: "About me"
 layout: default
 permalink: /about-me/
 classes: wide
+gallery_gameplay:
+  # Recommended: width "240px" to "320px" keeps a neat grid
+  - url: /assets/images/3D Inside House.png
+    image_path: /assets/images/3D Inside House.png
 skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
