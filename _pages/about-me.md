@@ -48,6 +48,5 @@ Hi, my name is conor miller and i am a current first year game design and develo
   button_label="Download Project Proposal"
   download="Project-proposal.pdf"
 %}
-</p>
 
 
