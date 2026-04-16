@@ -3,10 +3,6 @@ title: "About me"
 layout: default
 permalink: /about-me/
 classes: wide
-gallery_gameplay:
-  # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/Test.png
-    image_path: /assets/images/Test.png
 skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
@@ -35,7 +31,8 @@ skills:
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
 Hi, my name is conor miller and i am a current first year game design and development student at ulster university. I have developed many skills throughout this course as im learning C# in university and outside university i am learning godot for a personal project. i have developed three projects being a 2D game, a board game and a 3D environment.
-{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
+
+{% include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption" %}
 </p>
 </div>
 
