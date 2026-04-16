@@ -48,12 +48,10 @@ gallery_gameplay:
 <p>
 In my first semester as a Game Development student i created a 3D environmental landscape.
 </p>
-</div>
 <!-- RIGHT: video/content area -->
 <div style="flex:1 1 1000px; min-width:1000px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
 {% include video id="7DzwulHtnpE" provider="youtube" %}
 </div>
-</div>
 
-{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_gameplay" layout="third" thumb_height="300px" %}
