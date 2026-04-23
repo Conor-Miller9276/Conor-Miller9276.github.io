@@ -7,12 +7,12 @@ skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "Game Dev"]
-    text: "Hallo"
-    years: 2
+    text: "Have developed a solo  2D project, am currently developing a group 2D project and have developed a solo 3D landscape"
+    level_label: "Beginner"
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
     badges: ["Game Mechanics", "Levels", "UI"]
-    text: "Hallo 2"
+    text: ""
     level_label: "Noob"
   - name: "Godot"
     icon: "fa-solid fa-code"
