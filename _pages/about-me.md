@@ -33,8 +33,7 @@ Hi, my name is conor miller and i am a current first year game design and develo
 
 {% include skills skills=page.skills %}
 
-<h3>Contact Me: </h3>
-{% include google-form title="Contact Me" src="https://forms.gle/XsbApFoRjn7r24jy6" height="1500" %}
+{% include google-form title="Contact Me" src="https://forms.gle/XsbApFoRjn7r24jy6" height="800" %}
 
 <p align="centre">
 {% include download
