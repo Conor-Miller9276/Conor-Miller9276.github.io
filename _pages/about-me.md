@@ -25,7 +25,7 @@ skills:
 
 <div style="display:flex; flex-wrap:wrap; gap:4rem; align-items:flex-start;">
 <!-- LEFT: text content -->
-<div style="flex:1 1 100px; min-width:300px;">
+<div style="flex:1 1 100px; min-width:350px;">
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
 Hi, my name is conor miller and i am a current first year game design and development student at ulster university. I have developed many skills throughout this course as im learning C# in university and outside university i am learning godot for a personal project. i have developed three projects being a 2D game, a board game and a 3D environment. 
