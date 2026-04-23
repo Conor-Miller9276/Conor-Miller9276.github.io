@@ -16,6 +16,10 @@ skills:
     level_label: "Noob"
   - name: "Godot"
     icon: "fa-solid fa-code"
+  - name: "Aseprite"
+    icon: "fa-solid fa-pen"
+  - name: "Composition"
+    icon: "fa-solid fa-music"
 ---
 
 
