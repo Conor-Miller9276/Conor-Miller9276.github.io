@@ -33,6 +33,9 @@ Hi, my name is conor miller and i am a current first year game design and develo
 
 {% include skills skills=page.skills %}
 
+</div>
+{% include google-form title="Contact Me" src="https://forms.gle/XsbApFoRjn7r24jy6" height="800" %}
+</div>
 {% include download
   title="Download my Project Proposal"
   url="/assets/downloads/Project-proposal.pdf"
@@ -40,6 +43,6 @@ Hi, my name is conor miller and i am a current first year game design and develo
   download="Project-proposal.pdf"
 %}
 
-{% include google-form title="Contact Me" src="https://forms.gle/XsbApFoRjn7r24jy6" height="800" %}
+
 
 
