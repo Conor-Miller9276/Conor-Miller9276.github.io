@@ -26,7 +26,6 @@ skills:
 <p>
 Hi, my name is conor miller and i am a current first year game design and development student at ulster university. I have developed many skills throughout this course as im learning C# in university and outside university i am learning godot for a personal project. i have developed three projects being a 2D game, a board game and a 3D environment.
 
-{% include figure image_path="/assets/images/Test.png" alt="Game Jam screenshot" caption="This is a caption" %}
 </p>
 </div>
 
