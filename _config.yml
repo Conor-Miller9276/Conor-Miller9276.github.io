@@ -1,8 +1,8 @@
 # Basic site settings (edit these first)
 title: "Student Portfolio" # Site title shown in the browser and header
 title_separator: "Hello"
-subtitle: "Cool and Awesome Tagline" # site tagline that appears below site title in masthead
-description: "A simple portfolio starter for games students." # Short site summary
+subtitle: "" # site tagline that appears below site title in masthead
+description: "" # Short site summary
 name: "Conor Miller"
 url: "https://Conor-Miller9276.github.io" # Your GitHub Pages domain
 baseurl: "" # Repo name if site is in a project repo, blank for user/org site
