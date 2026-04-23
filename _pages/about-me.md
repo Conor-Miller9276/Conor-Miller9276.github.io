@@ -16,12 +16,6 @@ skills:
     level_label: "Noob"
   - name: "Godot"
     icon: "fa-solid fa-code"
-  - name: "Godot"
-    icon: "fa-solid fa-code"
-  - name: "Godot"
-    icon: "fa-solid fa-code"
-  - name: "Godot"
-    icon: "fa-solid fa-code"
 ---
 
 
