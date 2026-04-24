@@ -16,7 +16,7 @@ skills:
     level_label: "Beginner"
   - name: "Godot"
     icon: "fa-solid fa-code"
-    badhes : ["Game Mechanics, "UI", "GD Script", "Game Dev"]
+    badges: ["Game Mechanics, "UI", "GD Script", "Game Dev"]
   - name: "Aseprite"
     icon: "fa-solid fa-pen"
   - name: "Composition"
