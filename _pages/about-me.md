@@ -7,13 +7,13 @@ skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "Game Dev"]
-    text: "Have developed a 2D project and a 3D project in semester 1 of University and made a 2D group project in semester 2"
+    text: "Have developed a two 2D projects and a 3D project using Unity"
     level_label: "Beginner"
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
     badges: ["Game Mechanics", "Levels", "UI"]
-    text: ""
-    level_label: "Noob"
+    text: "Have designed levels for 2D and 3D projects while also making a board game"
+    level_label: "Beginner"
   - name: "Godot"
     icon: "fa-solid fa-code"
   - name: "Aseprite"
