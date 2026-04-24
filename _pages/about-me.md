@@ -7,7 +7,7 @@ skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "Game Dev"]
-    text: "Have developed 2 2D projects and a 3D landscape"
+    text: "Have developed a 2D project and a 3D project in semester 1 of University and made a 2D group project in semester 2"
     level_label: "Beginner"
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
