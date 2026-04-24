@@ -2,7 +2,6 @@
 title: "About me"
 layout: default
 permalink: /about-me/
-classes: wide
 skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
