@@ -12,7 +12,7 @@ skills:
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
     badges: ["Game Mechanics", "Levels", "UI"]
-    text: "Have designed levels for 2D and 3D projects while also making a board game"
+    text: "Have designed levels for 2D projects, 3D projects and a boardgame"
     level_label: "Beginner"
   - name: "Godot"
     icon: "fa-solid fa-code"
