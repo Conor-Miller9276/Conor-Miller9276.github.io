@@ -1,6 +1,6 @@
 ---
 title: "About me"
-layout: default
+layout: single
 permalink: /about-me/
 classes: wide
 skills:
