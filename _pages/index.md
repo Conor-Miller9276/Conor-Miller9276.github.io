@@ -8,8 +8,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: ""
   actions:
-    - label: "Download Isaac?"
-      url: "#test-link"
+    - label: "Download CV"
+      url: "[Conor-Miller-B01026078-CRE136.pdf](https://github.com/user-attachments/files/27059561/Conor-Miller-B01026078-CRE136.pdf)"
       target: "_blank"
 
 
