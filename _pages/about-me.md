@@ -38,7 +38,7 @@ Hi, my name is conor miller and i am a current first year game design and develo
 {% include skills skills=page.skills %}
 
 </div>
-{% include google-form title="Contact Me" src="https://forms.gle/XsbApFoRjn7r24jy6" height="800" %}
+{% include google-form title="Contact Me" src="https://docs.google.com/forms/d/e/1FAIpQLSffZskfUT8YVC6h5DTIdtDJadT6VnGyeHvYshWXojvCU5FeGA/viewform?usp=publish-editor" height="800" %}
 
 {% include download
   title="Download my Project Proposal"
