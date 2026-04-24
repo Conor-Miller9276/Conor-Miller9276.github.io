@@ -31,7 +31,7 @@ Hi, my name is conor miller and i am a current first year game design and develo
   
 </p>
 </div>
-
+</div>
 <h2>Skills: </h2>
 
 {% include skills skills=page.skills %}
