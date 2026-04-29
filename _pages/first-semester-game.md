@@ -13,8 +13,8 @@ gallery_gameplay:
     image_path: /assets/images/2D Enemy 1.png
   - url: /assets/images/2D Enemy 2.png
     image_path: /assets/images/2D Enemy 2.png
-  - url: /assets/images/2D Enemy 3.png
-    image_path: /assets/images/2D Enemy 3.png
+  - url: /assets/images/3D Charger.png
+    image_path: /assets/images/3D Charger.png
   - url: /assets/images/2D Enemy 4 Ground.png
     image_path: /assets/images/2D Enemy 4 Ground.png
   - url: /assets/images/2D Enemy 4 Roof.png
