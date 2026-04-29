@@ -29,7 +29,7 @@ gallery_gameplay:
 <div style="flex:1 1 1000px; min-width:500px;">
 <h2>2D Godot Project</h2>
 <p>
-In my first semester as a Game Development student i created a 3D environmental landscape.
+In my free time i have started to learn and develop a 2D game using gd script in Godot. The game currently has no real direction but the base line is using a claw machine to grab items that affect combat in some way. Below are the images of what is currently made
 </p>
 <!-- RIGHT: video/content area -->
 <div style="flex:1 1 1000px; min-width:1000px;">
