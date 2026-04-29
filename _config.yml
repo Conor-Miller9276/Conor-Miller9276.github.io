@@ -46,21 +46,23 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-      
+
+
+    "fa-brands fa-linkedin"
 # Site Footer
 footer: # Site footer
   links: # Footer links
-    - label: "Twitter" # Twitter link
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email" # Twitter link
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:conormiller350@gmail.com"
       target: "_blank"
     - label: "Github" # Github link
       icon: "fab fa-fw fa-github-square"
-      url: https://github.com/
+      url: "https://github.com/Conor-Miller9276"
       target: "_blank"
-    - label: "Facebook" # Facebook link
-      icon: "fab fa-fw fa-facebook-square"
-      url: https://github.com/
+    - label: "Linkedin" # Facebook link
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/conor-miller-622a3a2bb?utm_source=share_via&utm_content=profile&utm_medium=member_android"
       target: "_blank"
     - label: "GitHub" # GitHub link
       icon: "fab fa-fw fa-github"
