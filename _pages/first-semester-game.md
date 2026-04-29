@@ -22,7 +22,7 @@ gallery_gameplay:
   - url: /assets/images/MS Death.png
     image_path: /assets/images/MS Death.png
 
-gallery_gameplay:
+gallery_gameplay_2:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/MS Menu.png
     image_path: /assets/images/MS Menu.png
@@ -53,4 +53,4 @@ In my first semester as a Game Development student i created a 3D environmental 
 
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="300px" %}
 <div>
-{% include gallery id="gallery_gameplay" layout="third" thumb_height="300px" %}
+{% include gallery id="gallery_gameplay_2" layout="third" thumb_height="300px" %}
