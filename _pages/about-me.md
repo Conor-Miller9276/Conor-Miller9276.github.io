@@ -42,13 +42,4 @@ Below you can see the list of skills i have been developing over the last year a
 
 {% include google-form title="Contact Me" src="https://docs.google.com/forms/d/e/1FAIpQLSffZskfUT8YVC6h5DTIdtDJadT6VnGyeHvYshWXojvCU5FeGA/viewform?usp=publish-editor" height="800" %}
 
-{% include download
-  title="Download my Project Proposal"
-  url="/assets/downloads/Project-proposal.pdf"
-  button_label="Download Project Proposal"
-  download="Project-proposal.pdf"
-%}
-
-
-
 
