@@ -44,7 +44,7 @@ gallery_gameplay_2:
 <div style="flex:1 1 1000px; min-width:500px;">
 <h2>2D Project - First Semester</h2>
 <p>
-In my first semester as a Game Development student, i created a 2D Platforming Game where you play as a Fire Ninja who uses a tuning fork to defeat evilised crystaline enemies to save the crystal children. This game was made in 12 weeks and below shows the video that was submitted for my grade.
+In my first semester as a first year Game Design and Development student, i created a 2D Platforming Game where you play as a Fire Ninja who uses a tuning fork to defeat evilised crystaline enemies to save the crystal children. This game was made in 12 weeks and below shows the video that was submitted for my grade.
 </p>
 <!-- RIGHT: video/content area -->
 <div style="flex:1 1 1000px; min-width:1000px;">
@@ -56,6 +56,7 @@ This gives a closer look at the player and all the enemies. In image one, the en
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="300px" %}
 <div>
 <h2>2D Group Project - Second Semester</h2>
+In my second semester as first year Game Design and Development student, i was put into a group of 4 where we came together and made a 2D game. We were given a list of genres to choose from so we chose a 2D beat 'em up. My contribution to this project was mostly art for characters, enemies and some backkground while also helping with code.
 <p>
 {% include video id="OPVMm4_eqTA" provider="youtube" %}
 <div>
