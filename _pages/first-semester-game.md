@@ -56,10 +56,11 @@ This gives a closer look at the player and all the enemies. In image one, the en
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="300px" %}
 <div>
 <h2>2D Group Project - Second Semester</h2>
-In my second semester as first year Game Design and Development student, i was put into a group of 4 where we came together and made a 2D game. We were given a list of genres to choose from so we chose a 2D beat 'em up. My contribution to this project was mostly art for characters, enemies and some backkground while also helping with code.
+In my second semester as first year Game Design and Development student, i was put into a group of 4 where we came together and made a 2D game. We were given a list of genres to choose from so we chose a 2D beat 'em up where u play as a medieval peasant who is fighting his way to the king battling his guards. My contribution to this project was mostly art for characters, enemies and some backkground while also helping with code. Below is a trailer for our game.
 <p>
 {% include video id="OPVMm4_eqTA" provider="youtube" %}
 <div>
+The images below show the main menu, tutorial, the boss and the death screen. There are three enemies a basic knight which has a basic swipe attack, an archer who shoots at range and a heavy knight who is invulnerable when attacking.
 {% include gallery id="gallery_gameplay_2" layout="third" thumb_height="300px" %}
 
 
