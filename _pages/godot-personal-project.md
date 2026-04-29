@@ -27,7 +27,7 @@ gallery_gameplay:
 <div style="display:flex; flex-wrap:wrap; gap:4rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 1000px; min-width:500px;">
-<h2>3D Project Video - 3D Environment</h2>
+<h2>2D Godot Project</h2>
 <p>
 In my first semester as a Game Development student i created a 3D environmental landscape.
 </p>
