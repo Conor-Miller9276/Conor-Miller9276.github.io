@@ -48,6 +48,5 @@ Below you can see the list of skills i have been developing over the last year a
 {% include skills skills=page.skills %}
 
 
-{% include google-form title="Contact Me" src="https://docs.google.com/forms/d/e/1FAIpQLSffZskfUT8YVC6h5DTIdtDJadT6VnGyeHvYshWXojvCU5FeGA/viewform?usp=publish-editor" height="800" %}
 
 
