@@ -17,11 +17,11 @@ excerpt: "Game Developer"
 intro: 
   - excerpt: 'You can also add text like this....'
 feature_row:
-  - image_path: /assets/images/MS Home.png
+  - image_path: /assets/images/MS Home New.png
     alt: "placeholder image 1"
     title: "2D Projects"
     excerpt: ""
-  - image_path: /assets/images/3D-HomePage.png
+  - image_path: /assets/images/3D Home.png
     alt: "placeholder image 2"
     title: "3D Project"
     excerpt: ""
