@@ -28,7 +28,7 @@ feature_row:
     url: "/projects/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Godot Home.png
+  - image_path: /assets/images/3D Street.png
     alt: "placeholder image 3"
     title: "Personal Project"
     excerpt: ""
