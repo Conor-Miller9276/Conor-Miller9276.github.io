@@ -17,9 +17,9 @@ excerpt: "Game Developer"
 intro: 
   - excerpt: 'You can also add text like this....'
 feature_row:
-  - image_path: /assets/images/semester-1-game.png
+  - image_path: /assets/images/MS Home.png
     alt: "placeholder image 1"
-    title: "2D Project"
+    title: "2D Projects"
     excerpt: ""
   - image_path: /assets/images/3D-HomePage.png
     alt: "placeholder image 2"
@@ -30,10 +30,6 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/Godot.png
     alt: "placeholder image 3"
-    title: "Personal Project"
-    excerpt: ""
-  - image_path: /assets/images/Godot.png
-    alt: "placeholder image 4"
     title: "Personal Project"
     excerpt: ""
 ---
