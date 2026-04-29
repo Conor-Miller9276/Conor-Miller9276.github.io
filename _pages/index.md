@@ -21,7 +21,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "2D Projects"
     excerpt: ""
-  - image_path: /assets/images/3D Home.png
+  - image_path: /assets/images/3D Home New.png
     alt: "placeholder image 2"
     title: "3D Project"
     excerpt: ""
