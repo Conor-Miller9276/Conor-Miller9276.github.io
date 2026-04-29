@@ -9,18 +9,18 @@ sidebar:
     - projects
 gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/3D Inside House.png
-    image_path: /assets/images/3D Inside House.png
-  - url: /assets/images/3D-HomePage.png
-    image_path: /assets/images/3D-HomePage.png
-  - url: /assets/images/Money Shot.png
-    image_path: /assets/images/Money Shot.png
-  - url: /assets/images/3D Street.png
-    image_path: /assets/images/3D Street.png
-  - url: /assets/images/BrokenHouse-3D.png
-    image_path: /assets/images/BrokenHouse-3D.png
-  - url: /assets/images/3D BrokenStreet.png
-    image_path: /assets/images/3D BrokenStreet.png
+  - url: /assets/images/Godot Crane Nothing.png
+    image_path: /assets/images/Godot Crane Nothing.png
+  - url: /assets/images/Godot Crane.png
+    image_path: /assets/images/Godot Crane.png
+  - url: /assets/images/Godot Bottom.png
+    image_path: /assets/images/Godot Bottom.png
+  - url: /assets/images/Godot Crane Claw.png
+    image_path: /assets/images/Godot Crane Claw.png
+  - url: /assets/images/Godot Crane Grab.png
+    image_path: /assets/images/Godot Crane Grab.png
+  - url: /assets/images/Godot Pill.png
+    image_path: /assets/images/Godot Pill.png
 ---
 
 
