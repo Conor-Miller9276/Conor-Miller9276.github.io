@@ -16,11 +16,19 @@ skills:
     level_label: "Beginner"
   - name: "Godot"
     icon: "fa-solid fa-code"
-    badges: ["Game Mechanics", "Levels", "UI"]
+    badges: ["Game Mechanics", "Levels", "UI", "GD Script", "Game Dev"]
+    text: "Started on a personal project"
+    level_label: "Beginner"
   - name: "Aseprite"
     icon: "fa-solid fa-pen"
+    badges: ["Pixel Art", "Animation", "UI"]
+    text: "Made pixel art for both 2D projects and my Godot personal project"
+    level_label: "Beginner"
   - name: "Composition"
     icon: "fa-solid fa-music"
+    badges: ["Music", "Composing"]
+    text: "Made music for GCSEs"
+    level_label: "Beginner"
 ---
 
 
