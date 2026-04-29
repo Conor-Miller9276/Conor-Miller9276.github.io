@@ -19,8 +19,8 @@ gallery_gameplay:
     image_path: /assets/images/3D Street.png
   - url: /assets/images/BrokenHouse-3D.png
     image_path: /assets/images/BrokenHouse-3D.png
-  - url: /assets/images/3D BrokenStreet.png
-    image_path: /assets/images/3D BrokenStreet.png
+  - url: /assets/images/Medieval Scrimmage Test.png
+    image_path: /assets/images/Medieval Scrimmage Test.png
 ---
 
 
