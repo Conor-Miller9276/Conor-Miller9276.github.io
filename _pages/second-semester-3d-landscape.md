@@ -29,7 +29,7 @@ gallery_gameplay:
 <div style="flex:1 1 1000px; min-width:500px;">
 <h2>3D Project - Environment</h2>
 <p>
-In my first semester as a Game Development student i created a 3D environmental landscape.
+In my first semester as a Game Design and Development student i created a 3D environmental landscape using Probuilder. I went for a snowy landscape where you explore a snowed in village that has been trapped in a blizzard. The video shows a walkthrough of the Environment and then images show key points of interest. This video was submitted for my final grade.
 </p>
 <!-- RIGHT: video/content area -->
 <div style="flex:1 1 1000px; min-width:1000px;">
