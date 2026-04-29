@@ -56,8 +56,9 @@ In my first semester as a Game Development student i created a 3D environmental 
 <div>
 <h2>2D Group Project - Second Semester</h2>
 <p>
-{% include gallery id="gallery_gameplay_2" layout="third" thumb_height="300px" %}
-<div>
 {% include video id="OPVMm4_eqTA" provider="youtube" %}
+<div>
+{% include gallery id="gallery_gameplay_2" layout="third" thumb_height="300px" %}
+
 
 
