@@ -49,7 +49,7 @@ In my first semester as a Game Development student i created a 3D environmental 
 <!-- RIGHT: video/content area -->
 <div style="flex:1 1 1000px; min-width:1000px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
-{% include video id="7DzwulHtnpE" provider="youtube" %}
+{% include video id="1ujN925WCDg" provider="youtube" %}
 </div>
 
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="300px" %}
