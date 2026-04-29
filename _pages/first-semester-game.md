@@ -11,6 +11,7 @@ gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/2D Enemy 1.png
     image_path: /assets/images/2D Enemy 1.png
+    excerpt: "This enemy would swing its head around slamming into the player and knocking them and itself into the air"
   - url: /assets/images/2D Enemy 2.png
     image_path: /assets/images/2D Enemy 2.png
   - url: /assets/images/3D Charger.png
