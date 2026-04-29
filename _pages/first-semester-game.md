@@ -34,7 +34,8 @@ gallery_gameplay_2:
     image_path: /assets/images/MS Heavy.png
   - url: /assets/images/MS Boss.png
     image_path: /assets/images/MS Boss.png
-    
+  - url: /assets/images/MS Death.png
+    image_path: /assets/images/MS Death.png
 ---
 
 
