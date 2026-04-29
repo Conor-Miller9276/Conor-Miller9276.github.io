@@ -9,18 +9,18 @@ sidebar:
     - projects
 gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/3D Inside House.png
-    image_path: /assets/images/3D Inside House.png
-  - url: /assets/images/3D-HomePage.png
-    image_path: /assets/images/3D-HomePage.png
-  - url: /assets/images/Money Shot.png
-    image_path: /assets/images/Money Shot.png
-  - url: /assets/images/3D Street.png
-    image_path: /assets/images/3D Street.png
-  - url: /assets/images/BrokenHouse-3D.png
-    image_path: /assets/images/BrokenHouse-3D.png
+  - url: /assets/images/MS Menu.png
+    image_path: /assets/images/MS Menu.png
+  - url: /assets/images/MS Scarecrow.png
+    image_path: /assets/images/MS Scarecrow.png
   - url: /assets/images/Medieval Scrimmage Test.png
     image_path: /assets/images/Medieval Scrimmage Test.png
+  - url: /assets/images/MS Heavy.png
+    image_path: /assets/images/MS Heavy.png
+  - url: /assets/images/MS Boss.png
+    image_path: /assets/images/MS Boss.png
+  - url: /assets/images/MS Death.png
+    image_path: /assets/images/MS Death.png
 ---
 
 
