@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/3D-HomePage.png
     alt: "placeholder image 2"
     title: "3D Project"
-    excerpt: "Hello"
+    excerpt: ""
     url: "/projects/"
     btn_label: "Read More"
     btn_class: "btn--primary"
