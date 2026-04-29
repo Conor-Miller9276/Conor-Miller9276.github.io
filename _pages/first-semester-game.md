@@ -44,14 +44,14 @@ gallery_gameplay_2:
 <div style="flex:1 1 1000px; min-width:500px;">
 <h2>2D Project - First Semester</h2>
 <p>
-In my first semester as a Game Development student i created a 3D environmental landscape.
+In my first semester as a Game Development student, i created a 2D Platforming Game where you play as a Fire Ninja who uses a tuning fork to defeat evilised crystaline enemies to save the crystal children. This game was made in 12 weeks and below shows the video that was submitted for my grade.
 </p>
 <!-- RIGHT: video/content area -->
 <div style="flex:1 1 1000px; min-width:1000px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
 {% include video id="1ujN925WCDg" provider="youtube" %}
 </div>
-
+This gives a closer look at the player and all the enemies. 
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="300px" %}
 <div>
 <h2>2D Group Project - Second Semester</h2>
