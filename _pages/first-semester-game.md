@@ -52,7 +52,7 @@ In my first semester as a Game Development student, i created a 2D Platforming G
 {% include video id="1ujN925WCDg" provider="youtube" %}
 </div>
 This gives a closer look at the player and all the enemies. In image one, the enemy would swing its head around slamming into the player and knocking them and itself into the air. In image two, the enemy would fly after the player and shoot two projectiles in a straight line. In image three, the enemy would patrol a set path and then speed up after seeing the player. In image 4 and 5, the enemy would cling to the ceiling and drop when the player got close enough. In image 6 the enemy would cling to walls and shoot slow homing projectiles.
-</p>
+<p>
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="300px" %}
 <div>
 <h2>2D Group Project - Second Semester</h2>
