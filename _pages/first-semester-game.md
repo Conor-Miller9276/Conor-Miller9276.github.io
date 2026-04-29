@@ -42,7 +42,7 @@ gallery_gameplay_2:
 <div style="display:flex; flex-wrap:wrap; gap:4rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 1000px; min-width:500px;">
-<h2>2D Project Video - First Semester</h2>
+<h2>2D Project - First Semester</h2>
 <p>
 In my first semester as a Game Development student i created a 3D environmental landscape.
 </p>
@@ -54,5 +54,6 @@ In my first semester as a Game Development student i created a 3D environmental 
 
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="300px" %}
 <div>
-<h2>2D Group Project Video - Second Semester</h2>
+<h2>2D Group Project - Second Semester</h2>
+<p>
 {% include gallery id="gallery_gameplay_2" layout="third" thumb_height="300px" %}
