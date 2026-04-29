@@ -9,18 +9,18 @@ sidebar:
     - projects
 gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/MS Menu.png
-    image_path: /assets/images/MS Menu.png
-  - url: /assets/images/MS Scarecrow.png
-    image_path: /assets/images/MS Scarecrow.png
-  - url: /assets/images/Medieval Scrimmage Test.png
-    image_path: /assets/images/Medieval Scrimmage Test.png
-  - url: /assets/images/MS Heavy.png
-    image_path: /assets/images/MS Heavy.png
-  - url: /assets/images/MS Boss.png
-    image_path: /assets/images/MS Boss.png
-  - url: /assets/images/MS Death.png
-    image_path: /assets/images/MS Death.png
+  - url: /assets/images/2D Enemy 1.png
+    image_path: /assets/images/2D Enemy 1.png
+  - url: /assets/images/2D Enemy 2.png
+    image_path: /assets/images/2D Enemy 2.png
+  - url: /assets/images/2D Enemy 3.png
+    image_path: /assets/images/2D Enemy 3.png
+  - url: /assets/images/2D Enemy 4 Ground.png
+    image_path: /assets/images/2D Enemy 4 Ground.png
+  - url: /assets/images/2D Enemy 4 Roof.png
+    image_path: /assets/images/2D Enemy 4 Roof.png
+  - url: /assets/images/2D Enemy 5.png
+    image_path: /assets/images/2D Enemy 5.png
 
 gallery_gameplay_2:
   # Recommended: width "240px" to "320px" keeps a neat grid
