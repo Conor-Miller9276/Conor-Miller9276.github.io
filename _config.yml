@@ -52,7 +52,6 @@ footer: # Site footer
   links: # Footer links
     - label: "Email" # Twitter link
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:conormiller350@gmail.com"
       target: "_blank"
     - label: "Github" # Github link
       icon: "fab fa-fw fa-github-square"
