@@ -15,7 +15,7 @@ header:
 
 excerpt: "Game Developer"
 intro: 
-  - excerpt: 'These are the projects i have worked on'
+  - excerpt: 'These are the projects i have worked on.'
 feature_row:
   - image_path: /assets/images/MS Home New.png
     alt: "placeholder image 1"
